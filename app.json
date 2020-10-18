@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Recipe Manager\nYou can add recipes and view recipes",
+    "githubUrl": "https://github.com/mraps98/recipe-native"
   }
 }

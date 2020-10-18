@@ -1,5 +1,6 @@
 # Recipe-native
 Simple recipe management app for android/ios build in react-native
+## Expo link: https://exp.host/@mraps98/recipe-native
 
 # Screens
 ![screenshot 1](https://github.com/mraps98/recipe-native/blob/master/001.jpg)
